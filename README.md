@@ -1,4 +1,8 @@
-## Hi there 👋
+
+
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=liora-repo&hide=contribs,prs&show_icons=true&rank_icon=github&theme=gruvbox" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liora-repo&theme=gruvbox&layout=compact&card_width=320&langs_count=5" />
+
 
 <!--
 **liora-repo/liora-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
