@@ -1,7 +1,10 @@
 
-
+<a href="https://github.com/liora-repo">
   <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=liora-repo&hide=contribs,prs&show_icons=true&rank_icon=github&theme=gruvbox" />
+</a>
+<a href="https://github.com/liora-repo">
   <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liora-repo&theme=gruvbox&layout=compact&card_width=320&langs_count=5" />
+</a>
 
 
 <!--
