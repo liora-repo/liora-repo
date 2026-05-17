@@ -1,23 +1,9 @@
 
 <a href="https://github.com/liora-repo">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=liora-repo&hide=contribs,prs&show_icons=true&rank_icon=github&theme=gruvbox" />
+  <img height=120 src="https://github-readme-stats-fast.vercel.app/api?username=liora-repo&hide=contribs,prs&hide_border=true&show_icons=true&rank_icon=github&theme=gruvbox" />
 </a>
 <a href="https://github.com/liora-repo">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liora-repo&theme=gruvbox&layout=compact&card_width=320&langs_count=5" />
+  <img height=120 src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=liora-repo&hide_border=true&theme=gruvbox&layout=compact&card_width=320&langs_count=5" />
 </a>
 
-
-<!--
-**liora-repo/liora-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=liora-repo&hide_border=true&theme=gruvbox&area=true"/>
